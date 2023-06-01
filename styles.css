@@ -1,0 +1,42 @@
+body
+{background-color:beige;color:blue;}
+h1{
+    color:white;
+    font-family:'Arial',sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+div{background-color:rgb(18, 123, 193) }
+#t2{background-color:orchid }
+#imagen{
+    background-color:rgb(18, 123, 193);
+    padding: 10px;
+    margin: 20px;}
+#formulario{
+    color: aliceblue;
+    font-family: 'Georgia',serif;
+    background-color:rgb(18, 123, 193);
+    padding: 10px;
+    margin: 20px;}
+#apellido{
+    color:rgb(206, 214, 206);
+    margin: auto;
+    padding: 150px;
+}
+
+p{
+    font-family: 'Georgia',serif;
+    font-size: 18px;
+    padding: 10px;
+    margin: 20px;
+}
+h2{
+    font-family:'Arial',sans-serif;
+    font-size: 36px;
+    text-align: center;}
+ img{
+        height: 400px;
+        width: 300px;
+        margin: 50px 40px 30px 50px;
+    }
