@@ -1,5 +1,8 @@
 body
-{background-color:beige;color:blue;}
+{
+    background-color:beige;
+    color:blue;
+}
 h1{
     color:white;
     font-family:'Arial',sans-serif;
@@ -10,6 +13,7 @@ h1{
 div{background-color:rgb(18, 123, 193) }
 #t2{background-color:orchid }
 #imagen{
+    display: inline-flex;
     background-color:rgb(18, 123, 193);
     padding: 10px;
     margin: 20px;}
