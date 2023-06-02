@@ -13,7 +13,7 @@ h1{
 div{background-color:rgb(18, 123, 193) }
 #t2{background-color:orchid }
 #imagen{
-    display: inline-flex;
+    display:table-row;
     background-color:rgb(18, 123, 193);
     padding: 10px;
     margin: 20px;}
